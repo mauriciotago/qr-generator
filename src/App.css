@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /*1rem = 10px*/
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding-inline: 10.4rem 10.4rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background: linear-gradient(to bottom, #e7e9bb, #403b4a) no-repeat;
+  font-size: 1.6rem;
+}
